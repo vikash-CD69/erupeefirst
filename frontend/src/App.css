@@ -1,0 +1,17 @@
+.main-div{
+  background-color: aqua;
+  width: fit-content;
+  padding: 50px;
+  margin: 50px;
+  border: solid 3px rgb(75, 75, 238);
+  text-align: center;
+}
+td{
+  text-align: right;
+  margin: 20px;
+  padding: 15px;
+}
+body{
+  font-weight: bold;
+  background-color: bisque;
+}
